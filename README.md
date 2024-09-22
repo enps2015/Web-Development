@@ -8,6 +8,10 @@
 [Link para o repositório do projeto](https://github.com/enps2015/doutorEstranho2)  [![HTML, CSS, JS](https://img.shields.io/badge/HTML,%20CSS,%20JS-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://enps2015.github.io/doutorEstranho2/)
 * Uma página estática utilizando apenas HTML e CSS, com um foco especial na implementação do efeito parallax para adicionar profundidade e movimento à experiência do usuário..
 
-## projeto Divulgação de Livro - DEVMEDIA 💻
+## Projeto Divulgação de Livro - DEVMEDIA 💻
 [Link para o repositório do projeto](https://github.com/enps2015/projeto-divulgacao-de-livro)  [![HTML, CSS, JS](https://img.shields.io/badge/HTML,%20CSS,%20JS-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://enps2015.github.io/projeto-divulgacao-de-livro/)
 * Uma página estática utilizando apenas HTML e CSS, com um foco especial na implementação do efeito parallax para adicionar profundidade e movimento à experiência do usuário..
+
+## Projeto Web Site Data Science 💻
+[Link para o repositório do projeto](https://github.com/enps2015/webSiteDataScience)  [![HTML, CSS, JS](https://img.shields.io/badge/HTML,%20CSS,%20JS-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://enps2015.github.io/projeto-divulgacao-de-livro/)
+* Uma página  feita utilizando HTML, CSS e javascript. Com uso de ferramenta de IA (Gemini Google). O projeto implementa o HTMl assim como o CSS e Javascript para criar um efeito de PopUP no Mini Glossario com termos técnico da àrea de Dados. 
